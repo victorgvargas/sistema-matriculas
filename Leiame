@@ -1,0 +1,17 @@
+O software consiste numa solução simples para um problema simples. A classe "ConversorDeMatriculas" possui métodos para fazer as conversões dos números de matrícula para números de matrícula com dígitos (e vice-versa). A classe "ManipuladorDeArquivos" lê e grava os arquivos com os números, e a classe "SistemaDeMatriculas" contém o método "main" para executar o programa. 
+
+Para executar o programa, basta:
+	1 - Abri-lo na IDE de preferência (IntelliJ, Eclipse, etc.);
+	2 - Ir até a classe "SistemaDeMatriculas";
+	3 - Apertar no "botão de play" verde ao lado do método main (run).
+	
+Caso queira rodar pela linha de comandos:
+	1 - Abra um terminal;
+	2 - Navegue até o diretório do código fonte (utilizando o comando cd <diretorio>);
+	3 - Compile o código utilizando o comando javac SistemaDeMatriculas.java;
+	4 - Execute-o utilizando o comando java SistemaDeMatriculas.
+	
+Para rodar os testes, é necessário utilizar o Gradle. Caso esteja no IntelliJ:
+	1 - Atualize as dependências, caso seja necessário, pressionando o botão de atualização 		no canto superior direito;
+	2 - Navegue até a classe src/test/java/TesteConversao;
+	3 - Pressione o "botão de play" verde ao lado do método TesteConversao (run).

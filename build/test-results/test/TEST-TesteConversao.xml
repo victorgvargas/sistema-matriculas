@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TesteConversao" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-15T20:29:12" hostname="victor-Lenovo-IdeaPad-S145-15IWL" time="0.069">
+  <properties/>
+  <testcase name="deveriaConverterMatricula()" classname="TesteConversao" time="0.033"/>
+  <testcase name="deveriaConverterNumero()" classname="TesteConversao" time="0.004"/>
+  <testcase name="deveriaCalcularDigito()" classname="TesteConversao" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
